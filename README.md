@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... messy,
 - ⚡ Fun fact: ... if you build it they will come. 
 -->
+Read me:
+gh repo clone JessD3691/JessD3691-ghsa-8gc4-6qpv-6v5x 
+
+git@github.com:JessD3691/JessD3691-ghsa-8gc4-6qpv-6v5x.git
+
+
